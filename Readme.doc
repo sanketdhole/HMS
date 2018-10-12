@@ -1,0 +1,13 @@
+Hello Welcome to kivy project of Hotel Management System
+To run the project you have to follow some of the requirements or make changes to code.
+Requirements:
+1) You require MySQL to run this application. You require to understand the code and make changes accordingly.
+2) Following is the list of tables and coloums
+	logindetails = [username, password, acctype]
+	userdetails = [firstname, lastname, email, phoneno, username, password, straddress, city, pincode, state, country, aadhaar, licence, other]
+	lodgedetails = [date, time, primarykey, roomno]
+	reslog = [total, id]
+
+This is project was developed to learn new concepts and doesn't concern with development guides.
+So, there might not be consistency in the code.
+I don't own this code and you are free to use this code and distribute.
